@@ -9,9 +9,9 @@
 | Dataset ID | `873383` |
 | Location | Grand Prairie |
 | Category | Restaurants |
-| Full dataset size | 350 records |
-| Free sample size | 43 records (12.29%) |
-| Last export | 2026-03-31T16:50:01.875115+00:00 |
+| Full dataset size | 433 records |
+| Free sample size | 43 records (9.93%) |
+| Last export | 2026-04-14T17:44:58.975300+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-grand-prairie-texas-us-sample-873383/releases/download/sample-latest/beamstation_873383_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
