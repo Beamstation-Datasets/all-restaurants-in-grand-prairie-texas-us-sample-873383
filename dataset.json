@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Grand Prairie, Texas with a population of over 196k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Grand Prairie, Texas, US",
-  "export_job_id": "d0f5db80-9198-4ad4-aee3-56ce556fead8",
+  "export_job_id": "5e83530e-7625-4ab7-b1de-18532effa8ed",
   "github_org": "Beamstation-Datasets",
   "id_short": 873383,
   "location_name": "Grand Prairie",
   "location_type": "city",
   "repo_name": "all-restaurants-in-grand-prairie-texas-us-sample-873383",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/873383/beamstation_873383_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 12.29,
+  "sample_pct": 9.93,
   "sample_records": 43,
   "sample_sha256": "3d52f666e82939ea4c1c8daf767e7a87a4b466cf6ae098229e3e6d4b78821587",
   "sample_size_bytes": 160774,
-  "total_records": 350,
-  "updated_at": "2026-03-31T16:50:01.875115+00:00"
+  "total_records": 433,
+  "updated_at": "2026-04-14T17:44:58.975300+00:00"
 }
