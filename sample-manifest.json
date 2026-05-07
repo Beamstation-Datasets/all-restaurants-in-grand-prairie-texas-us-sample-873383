@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f5d9d88c-37c6-44a7-88f1-6f76d3448a8a",
+  "export_job_id": "6db4b49c-5562-4cac-a93f-1b95465b57b7",
   "id_short": 873383,
-  "published_at": "2026-04-29T07:53:39Z",
+  "published_at": "2026-05-07T19:22:10Z",
   "repo_name": "all-restaurants-in-grand-prairie-texas-us-sample-873383",
   "sample_asset_name": "beamstation_873383_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/873383/beamstation_873383_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 42,
-  "sample_sha256": "6b3835295f9d00f140aabcebb26ddfe82d648b3472c185ee52ddc7d21284a527",
-  "sample_size_bytes": 138531,
-  "total_records": 424
+  "sample_records": 44,
+  "sample_sha256": "857111760921c78e9c19451ea25197b6a00fce5f005b99266289073940d3467e",
+  "sample_size_bytes": 165915,
+  "total_records": 444
 }
