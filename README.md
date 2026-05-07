@@ -1,6 +1,6 @@
 # All Restaurants in Grand Prairie, Texas, US
 
-> Free BeamStation sample export with 42 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `873383` |
 | Location | Grand Prairie |
 | Category | Restaurants |
-| Full dataset size | 424 records |
-| Free sample size | 42 records (9.91%) |
-| Last export | 2026-04-28T20:57:08.445144+00:00 |
+| Full dataset size | 444 records |
+| Free sample size | 44 records (9.91%) |
+| Last export | 2026-05-07T14:11:14.820149+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-grand-prairie-texas-us-sample-873383/releases/download/sample-latest/beamstation_873383_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
